@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    box-sizing: border-box;
+    padding: 10px;
+    height: 80vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+    margin-bottom: 15px;
+    border: 1px solid lightgrey;
+    padding: 5px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.row {
+    width: 100%;
+    margin: 0;
+}
+
+.sidebar div {
+    margin-top: 5px;
+}
+
+#titlearea {
+    box-sizing: border-box;
+    height: 45px;
+    width: 50%;
+    font-weight: bold;
+}
+
+#saveButton {
+    position: absolute;
+    top: 90px;
+    right: 21%
+}
+
+.alert {
+    position: absolute;
+    top: 90px;
+    right: 37%;
+    width: auto;
+    padding: 5px;
+}
+
+#editButton {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
